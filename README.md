@@ -8,3 +8,7 @@
 其他已经完结的动漫字幕，后续会分类放入各个文件夹，为了方便下载，你也可以移步下方网盘链接下载：
 
 占位（还没上传）
+
+强烈推荐使用<img width="28" height="28" alt="mpv" src="https://github.com/user-attachments/assets/8c0a74ff-a0f9-41b4-8b88-63500dfd3473" />mpv播放器进行补帧观看，你可以试试我的mpv_DW 2.1.0修改版，或者选择mpv_lazy。你可以在下方链接查看下载信息：
+
+https://www.bilibili.com/opus/1090994205158801408
