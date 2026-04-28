@@ -9,7 +9,7 @@
 
 占位（还没上传）
 
-强烈推荐使用<img src="https://github.com/user-attachments/assets/81efc062-db15-47c5-980a-448b6ce4ec27" width="20" style="vertical-align: bottom;"><b>mpv播放器</b>进行补帧观看，
+强烈推荐使用<img src="https://github.com/user-attachments/assets/81efc062-db15-47c5-980a-448b6ce4ec27" width="20" style="vertical-align: -10px;"><b>mpv播放器</b>进行补帧观看，
 你可以试试我的mpv_DW 2.1.0修改版，或者选择mpv_lazy。你可以在下方链接查看下载信息：
 
 https://www.bilibili.com/opus/1090994205158801408
