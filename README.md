@@ -1,8 +1,11 @@
 # sub-revised-by-zixiaoran
 对自己感兴趣的动漫进行字幕修校，会在这里存档。
 
-目前开坑的动漫字幕：黑猫与魔女的教室（Kuroneko to Majo no Kyoushitsu）
+目前开坑的动漫字幕：
 
+【26.04】黑猫与魔女的教室（Kuroneko to Majo no Kyoushitsu）
+ZiXiaoran/sub-revised-by-zixiaoran/【26.04】Kuroneko to Majo no Kyoushitsu/Poster-Kuroneko to Majo no Kyoushitsu.png
+<img src="【26.04】Kuroneko to Majo no Kyoushitsu/Poster-Kuroneko to Majo no Kyoushitsu.png" width="500">
 请在文件夹内的<说明文档>里查看字体的信息及下载链接。
 
 其他已经完结的动漫字幕，后续会分类放入各个文件夹，为了方便下载，你也可以移步下方网盘链接下载：
