@@ -17,3 +17,7 @@
 你可以试试我的mpv_DW 2.1.0修改版，或者选择mpv_lazy。你可以在下方链接查看下载信息：
 
 https://www.bilibili.com/opus/1090994205158801408
+
+在Anime字幕论坛上查看我的其他字幕：
+
+https://bbs.acgrip.com/?40945
