@@ -4,7 +4,8 @@
 目前开坑的动漫字幕：
 
 【26.04】黑猫与魔女的教室（Kuroneko to Majo no Kyoushitsu）
-<img src="【26.04】Kuroneko to Majo no Kyoushitsu/Poster-Kuroneko to Majo no Kyoushitsu.png" width="500">
+
+<img src="【26.04】Kuroneko to Majo no Kyoushitsu/Poster-Kuroneko to Majo no Kyoushitsu.webp" width="500">
 
 请在文件夹内的<说明文档>里查看字体的信息及下载链接。
 
