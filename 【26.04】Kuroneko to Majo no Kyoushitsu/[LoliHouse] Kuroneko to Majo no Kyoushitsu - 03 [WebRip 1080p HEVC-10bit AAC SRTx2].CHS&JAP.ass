@@ -15,7 +15,7 @@ Audio File: [LoliHouse] Kuroneko to Majo no Kyoushitsu - 03 [WebRip 1080p HEVC-1
 Video File: [LoliHouse] Kuroneko to Majo no Kyoushitsu - 03 [WebRip 1080p HEVC-10bit AAC SRTx2].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.375000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,7 +361,7 @@ Dialogue: 0,0:16:12.34,0:16:16.24,DefaultUP,,0,0,0,,这称为万有引力定律 
 Dialogue: 0,0:16:18.42,0:16:20.50,Default,,0,0,0,,邻座的人睡得这么香？\N{\rJP}隣の子 めっちゃ寝てる！
 Dialogue: 0,0:16:16.24,0:16:20.76,DefaultUP,,0,0,0,,各物体的质量分别设为M m 距离设为r\N{\rJP}それぞれの物体的質量をラージｍとスモールｍ 距離をｒとした場合に
 Dialogue: 0,0:16:20.76,0:16:25.33,DefaultUP,,0,0,0,,就能用公式表示 M和m之间的作用力\N{\rJP}ラージｍとスモールｍの間に働く力は この式で表すことができます
-Dialogue: 0,0:16:20.76,0:16:25.33,Default,,0,0,0,,喂 你最好快点醒来 老师在盯你 快醒醒！\N{\rJP}あの 起きた方がいいですよ 先生 にらんでるし 起きて！
+Dialogue: 0,0:16:20.76,0:16:25.33,Default,,0,0,0,,同学 别睡了 老师在盯你 快醒醒！\N{\rJP}あの 起きた方がいいですよ 先生 にらんでるし 起きて！
 Dialogue: 0,0:16:25.33,0:16:27.80,Default,,0,0,0,,丝碧卡・瓦戈 严禁私下交谈\N{\rJP}スピカ・ヴァルゴ 私語は慎め！
 Dialogue: 0,0:16:27.80,0:16:28.76,Default,,0,0,0,,我？\N{\rJP}私！？
 Dialogue: 0,0:16:28.76,0:16:31.51,Default,,0,0,0,,试着说出万有引力的公式\N{\rJP}万有引力の式を言ってみなさい！
